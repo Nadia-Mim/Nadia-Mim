@@ -8,11 +8,11 @@ Created this with help of lots of template collection of https://github.com/durg
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">General Stats :
 
 <p align="right">
-<img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nadia-Mim&theme=algolia&hide_border=true"  width="500" />
+<img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Nadia-Mim&theme=algolia&hide_border=true"/>
 </p>
 
 <p align="right">
-<img src = "https://github-readme-stats.vercel.app/api?username=Nadia-Mim&theme=algolia&bg_color=0,000000,130F40&icon_color=bb2acf&count_private=true&include_all_commits=true&show_icons=true" width="500"/> 
+<img src = "https://github-readme-stats.vercel.app/api?username=Nadia-Mim&theme=algolia&bg_color=0,000000,130F40&icon_color=bb2acf&count_private=true&include_all_commits=true&show_icons=true"/> 
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Activity Graph :
