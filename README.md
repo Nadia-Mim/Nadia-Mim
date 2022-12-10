@@ -18,7 +18,7 @@ Created this with help of lots of template collection of https://github.com/durg
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Activity Graph :
 <!-- used width in images to fixed the size, if you want to be it dynamic, just remove " width="500" " -->
 <p align="right">
-<img align="center" src = "https://activity-graph.herokuapp.com/graph?username=Nadia-Mim&theme=react-dark&area=true&count_private=true" />
+<img align="center" src = "[https://activity-graph.herokuapp.com/graph](https://github-readme-activity-graph.cyclic.app)?username=Nadia-Mim&theme=react-dark&area=true&count_private=true" />
 </p>
 
 
