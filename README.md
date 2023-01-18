@@ -12,7 +12,7 @@ Created this with help of lots of template collection of https://github.com/durg
 </p>
 
 <p align="right">
-<img align="center" src = "https://github-readme-stats.vercel.app/api?username=Nadia-Mim&theme=algolia&bg_color=0,000000,130F40&icon_color=bb2acf&count_private=true&include_all_commits=true&show_icons=truePAT_1" width="700"/> 
+<img align="center" src = "https://github-readme-stats.vercel.app/api?username=Nadia-Mim&theme=algolia&bg_color=0,000000,130F40&icon_color=bb2acf&count_private=true&include_all_commits=true&show_icons=true" width="700"/> 
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">Activity Graph :
