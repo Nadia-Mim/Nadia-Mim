@@ -1,6 +1,9 @@
-
-<img width="20%" align="right" alt="Github" src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" />
 ### Hi there this is Nadia Tasnim Mim 👋
+
+<p align="right">
+<img width="25%" height="100%" align="center" alt="Github" src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" />
+</p>
+
 <!--
 Created this with help of lots of template collection of https://github.com/durgeshsamariya/awesome-github-profile-readme-templates, so credit goes to the contributors of the repository!! 
 -->
